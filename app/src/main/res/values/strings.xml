@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RestaurantDemo</string>
+    <string name="search">Search for restaurants, cuisines...</string>
+</resources>
